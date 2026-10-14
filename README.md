@@ -1,5 +1,3 @@
-one.proekt
-# yapechenko
 origin	https://github.com/yapechenko/gittest (fetch)
 origin	https://github.com/yapechenko/gittest (push)
 yapechenko@MacBook-Air-Vara gittest % git remote set-url origin https://github.com
