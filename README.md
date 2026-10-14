@@ -1,4 +1,4 @@
-# Скажи всем хайп!🔥🔥 И будь со мной в тренде!🫪🫪🫪
+# Say "hype" to everyone! 🔥🔥 And stay on trend with me!
 ## My name is Varvara!
 ### I am a creative designer and a cheerful person. Let's get acquainted! 🎶💕🎶💕🎶
 
